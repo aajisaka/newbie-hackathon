@@ -1,3 +1,3 @@
-# newbie-hackason
+# newbie-hackathon
 
-[Hackason 3](https://github.com/aajisaka/newbie-hackason/wiki/Hackason-3)
+[Hackathon 3](https://github.com/aajisaka/newbie-hackason/wiki/Hackason-3)
